@@ -17,6 +17,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install nodejs
 > apt update && apt upgrade
 > git clone https://github.com/ridhoma08/waridhobot
+> npm i-g cwedl
+> npm i-g ytdl && npm i got
 > cd waridhobot
 > bash install.sh
 > node index.js
